@@ -6,9 +6,64 @@
     --white: #FFFFFF;
 }
 
+body {
+    max-width: 90rem;
+    margin: auto;
+}
+
+/* HEADER */
+
+.header-content, .contact {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    width: 17rem;
+}
+
+.miniheader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-content {
+    width: 50rem;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 50rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+
 button {
     background-color: var(--orange);
     color: var(--white);
     padding: 1rem 2rem;
     border: none;
+}
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--dark-green);
+    color: var(--white);
+}
+
+li {
+    list-style: none;
 }
