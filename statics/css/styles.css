@@ -1,0 +1,14 @@
+:root {
+    --light-green: #D9EDE5;
+    --green: #008755;
+    --dark-green: #13322B;
+    --orange: #F16836;
+    --white: #FFFFFF;
+}
+
+button {
+    background-color: var(--orange);
+    color: var(--white);
+    padding: 1rem 2rem;
+    border: none;
+}
