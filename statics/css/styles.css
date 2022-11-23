@@ -74,12 +74,18 @@ li {
     .nav {
         display: flex;
         justify-content: space-between;
-        width: 20rem;
+        width: 35rem;
     }
 
     .nav > li {
         border: none;
         padding: 0;
+    }
+
+    .GTA {
+        background-color: var(--orange);
+        color: var(--white);
+        padding: 1rem 2rem;
     }
 
 }
