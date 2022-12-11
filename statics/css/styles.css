@@ -37,7 +37,10 @@ li {
         justify-content: space-between;
     }
 }
-    
+
+.icon {
+    width: 1rem;
+}
 
 .contact {
     display: flex;
@@ -100,6 +103,54 @@ li {
         justify-content: space-between;
     }
 }
+
+/* footer */
+
+footer {
+    background-color: var(--dark-green);
+    color: var(--white);
+    padding: 1rem;
+    padding-top: 8rem;
+}
+
+footer > div {
+    width: 100%;
+}
+
+@media (min-width: 960px) {
+    footer {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 1rem 0;
+    }
+    footer > div {
+        width: 25%;
+        
+    }
+
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        width: 48rem;
+    }
+}
+
+/* main */
+
+.hero {
+    background-image: url(../img/images/hero-aanleg.jpeg);
+    background-size: cover;
+    height: 40rem ;
+}
+
+.hero > div {
+    background-color: var(--white);
+    max-width: 40rem;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+
 
 
 
