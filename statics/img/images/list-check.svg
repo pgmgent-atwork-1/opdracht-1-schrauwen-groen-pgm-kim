@@ -1,4 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16.362" height="12.047" viewBox="0 0 16.362 12.047">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./statics/css/styles.css">
+    <title>schrauwen groen</title>
+</head>
+
+<body>
+    <header>
+        <div class="miniheader">
+            <ul class="header-content">
+                <li><img src="./statics/img/images/list-check.svg" alt="check"> +60 jaar ervaring</li>
+                <li><img src="./statics/img/images/list-check.svg" alt="check"> Flexibele aanpak</li>
+                <li><img src="./statics/img/images/list-check.svg" alt="check"> transparante communicatie</li>
+                <li><img src="./statics/img/images/list-check.svg" alt="check"> Uitgebreid machinepark</li>
+            </ul>
+            <ul class="contact">
+                <li><img src="./statics/img/images/icon-mail.svg" alt="mail" class="icon"> info@schrauwen.be</li>
+                <li><img src="./statics/img/images/icon-phone.svg" alt="phone" class="icon"> 05028 17 76 </li>
+            </ul>
+        </div>
+        <div class="header">
+            <div>
+                <img src="./statics/img/images/logo.svg" alt="logo" class="logo">
+            </div>
+            <nav>
+                <ul class="nav">
+                    <li><a href="./aanleg.html">aanleg</a></li>
+                    <li><a href="./onderhoud.html">onderhoud</a></li>
+                    <li><a href="./referenties.html">referenties</a></li>
+                    <li><a href="./contact.html" class="GTA">contacteer ons</a></li>
+                </ul>
+            </nav>
+    </header>
+    <main>
+        <h1>Experts in groen</h1>
+
+    </main>
+    <footer>
+        <img src="./statics/img/images/logo-white.svg" alt="logo white">
+        <div>
+            <p>handige links</p>
+            <ul>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> aanleg</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> onderhoud</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> contact</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> Nieuws</a></li>
+            </ul>
+        </div>
+        <div>
+            <p>over schrauwen Groen</p>
+            <ul>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> Werkwijze</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> Historiek</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> Team</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> Jobs</a></li>
+            </ul>
+        </div>
+        <div>
+            <p>conatactgegevens</p>
+            <ul>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> st-elooisstraat 80, 8020
+                        Ruddervoorde</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> info@schrauwen.be</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> 050 28 17 76</a></li>
+                <li><a href="#"><img src="./statics/img/images/list-arrow.svg" alt="arrow"> BTW BE 0632 500 871</a></li>
+            </ul>
+        </div>
+    </footer>
+</body>
+
+</html><svg xmlns="http://www.w3.org/2000/svg" width="16.362" height="12.047" viewBox="0 0 16.362 12.047">
   <g id="Check" transform="translate(0.546 0.547)">
     <path id="np_check_2323512_000000" d="M20.193,19.87l-2.017-2.2a.279.279,0,0,0-.394-.017L11.2,23.691,7.682,19.855a.279.279,0,0,0-.394-.017l-2.2,2.017a.279.279,0,0,0-.019.392l3.671,4.087,2.06,2.16a.279.279,0,0,0,.386.017l2.244-1.98,6.748-6.268a.278.278,0,0,0,.016-.392Zm-7.138,6.247-2.037,1.8-1.869-1.96L5.668,22.079l1.791-1.642,3.518,3.836a.28.28,0,0,0,.194.09.287.287,0,0,0,.2-.073l6.581-6.037,1.642,1.789Z" transform="translate(-4.997 -17.58)" fill="#ff6c37" stroke="#ff6130" stroke-width="1"/>
   </g>
